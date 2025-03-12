@@ -4,25 +4,25 @@ import { motion } from 'framer-motion';
 const teamMembers = [
   {
     name: 'Aaditya Sharma',
-    role: 'Chief Executive Officer',
+    role: 'Chief Executive Officer and CFO',
     image: 'avatars//userimages//Aaditya.jpg',
     description: 'A visionary leader with extensive experience in AI and software development, driving innovation and growth at Maruti Solutions.',
   },
   {
     name: 'Somya Sharma',
-    role: 'Chief Technology Officer',
+    role: 'Co Founder and Chief Technology Officer',
     image: 'avatars//userimages//Somya.jpg',
     description: 'An expert in cutting-edge technologies, leading our technical initiatives and ensuring excellence in all our solutions.',
   },
   {
     name: 'Lavesh Jain',
-    role: 'Chief Operations Officer',
+    role: 'Chief Operations Officer and AI Development Head',
     image: 'avatars//userimages//Lavesh.jpg',
     description: 'A strategic thinker with a proven track record in optimizing business operations and delivering exceptional results.',
   },
   {
     name: 'Vivek Raikwar',
-    role: 'Head of AI Research',
+    role: 'Creative Head and Head of AI Research',
     image: 'avatars//userimages//Vivek.jpg',
     description: 'Leading our AI research initiatives and developing innovative solutions for complex business challenges.',
   },
